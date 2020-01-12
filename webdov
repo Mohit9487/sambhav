@@ -1,0 +1,64 @@
+
+<html>
+<head>
+    <title>i am learning web dovlepment</title>
+</head>
+    <h1><strong><center>my first web</center></strong></h1>
+        <p>i am much interested in web dovlepment and web designing. ia m starting my this tour on 8th october 2019.i love this course.</p>
+        <P>connect with all your sites from this site and get information about that websites.</P>
+        <p>start with clicking on this.</p>
+        <a href="https://www.google.com" target=_blank><strong>GOOGLE</strong><br><br><br><br>        
+       <section>1.social media</section>
+            <ul>
+            <li><a href="https://www.facebook.com"target=_blank>facebook</a></li>
+        
+            <li><a href="https://web.whatsapp.com/"target=_blank>whatsapp</a></li>
+                
+            <li><a href="https://twitter.com"target=_blank>twitter</a></li>
+                
+            <li><a href="https://www.instagram.com"target=_blank>instagram</a></li>
+                
+            <li><a href="https://hangouts.google.com"target=_blank>hangouts</a>
+            </li>
+                
+             <li><a href="https://www.skype.com"target=_blank>skype</a>
+            </li>
+                
+            <li><a href="https://www.youtube.com"target=_blank>youtube</a>
+            </li>
+                
+            <li><a href="https://www.wechat.com"target=_blank>wechat</a>
+            </li>
+        </ul><br><br> 
+            <Section>2.coding websites</Section>
+            <ul>
+            <li><a href="https://www.hackerearth.com"taeget=_blank>hackerearth</a></li>
+                <li><a href="https://www.hackerrank.com"target=_blank>hackerrank</a></li>
+                <li><a href="https://atcoder.jp"target=_blank>atcoder</a></li>
+                <li><a href="https://www.topcoder.com"target=_blank>topcoder</a></li>
+                 <li><a href="www.codechef.com"target=_blank>codechef</a></li>
+                 <li><a href="http://codeforces.com/"target=_blank>codeforces</a></li>
+            </ul><br><br> 
+            <section>3.online shopping</section>
+            <ul>
+             <li><a href="https://www.amazon.in
+"target=_blank>amazon</a></li>
+                 <li><a href="https://www.flipkart.com
+"target=_blank>flipkart</a></li>
+                 <li><a href="https://paytmmall.com
+"target=_blank>paytm mall</a></li>
+                 <li><a href="https://www.walmart.com
+"target=_blank>walmart</a></li>
+                 <li><a href="https://in.ebay.com
+"target=_blank>ebay</a></li>
+            </ul><br><br>
+            <section>4.e-wallet</section>
+             <li><a href="https://paytm.com"taeget=_blank>paytm</a></li>
+             <li><a href="https://www.phonepe.com"taeget=_blank>phonepe</a></li>
+             <li><a href="https://pay.google.com"taeget=_blank>google pay</a></li>
+             <li><a href="https://www.paypal.com"taeget=_blank>payppal</a></li>
+             <li><a href="https://pay.amazon.com"taeget=_blank>amazon pay</a></li>
+            <li><a href="https://www.mobikwik.com"taeget=_blank>mobiwik</a></li><br><br>
+           
+    </body>
+</html>
